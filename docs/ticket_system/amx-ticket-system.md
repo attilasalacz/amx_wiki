@@ -84,7 +84,7 @@ A felhasználó saját maga is jelezheti az igényét, illetve egy adott CW dev 
 -|-|-|-|-
 `new`|`train`|`cwlu` (típustól függően `email`, `personal` vagy `cwlu`)|`Campaign Management learning unite-ok`| `new;train;cwlu;Campaign Management learning unite-ok`
 
-<!--Implementálás alatt
+
 ## 3. Ticketek nyomonkövetése
 
 Amennyiben a felhasználó ticket request-je sikeres volt, e-mailes megerősítést fog kapni a ticket egyedi azonosítószámával együtt.
@@ -100,8 +100,6 @@ A felhasználó a saját ticketjével kapcsolatos információkat az alábbi tá
 ticket típusa|ticket száma|példa tárgy
 -|-|-
 `info`|`82`|`info;82`
-
--->
 
 ## 4. Ticketek törlése
 
