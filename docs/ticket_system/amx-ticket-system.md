@@ -111,7 +111,7 @@ A rendszer lehetőséget ad a felhasználó által létrehozott ticketek törlé
 
 ### 4.2 Példa Delete típusú ticketre
 
-ticket száma|ticket típusa|rövid indoklás|példa tárgy
+ticket típusa|ticket száma|rövid indoklás|példa tárgy
 -|-|-|-
-`82`|`del`|`megoldódott a probléma`|`82;del;megoldódott a probléma`
+`del`|`82`|`megoldódott a probléma`|`del;82;megoldódott a probléma`
 
